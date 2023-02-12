@@ -1,1 +1,1 @@
-<h2>AirBnB clone - Web static</h2>
+<h1>AirBnB clone - Web static</h1>
